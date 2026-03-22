@@ -12,13 +12,13 @@ Junior WordPress Developer based in the UK, focused on building custom WordPress
 - Git & GitHub
 
 ## Featured Projects
-### WordPress Contact Form Plugin
+### WordPress Contact Form Plugin (https://github.com/hamza-naeem-dev/WordPress-Contact-Form-Plugin)
 Custom plugin with frontend form, file upload, CPT storage, shortcode support, and JavaScript validation.
 
-### Quote Request Plugin
+### Quote Request Plugin (https://github.com/hamza-naeem-dev/WordPress-Quote-Request-Plugin)
 Custom quote request workflow with nonce protection, sanitization, email notifications, and CPT storage.
 
-### Task Manager Plugin
+### Task Manager Plugin (https://github.com/hamza-naeem-dev/Task-Manager-WordPress-Plugin)
 Frontend WordPress task manager with CPT, WP_Query, task status via post meta, and secure form handling.
 
 ## Currently Working On
