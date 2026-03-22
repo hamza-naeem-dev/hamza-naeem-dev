@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Hamza Naeem
 
-<!--
-**hamza-naeem-dev/hamza-naeem-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior WordPress Developer based in the UK, focused on building custom WordPress plugins using PHP, WordPress APIs, and JavaScript.
 
-Here are some ideas to get you started:
+## Tech Stack
+- PHP
+- WordPress Plugin Development
+- Custom Post Types
+- WP_Query
+- JavaScript (DOM Manipulation)
+- HTML, CSS, Bootstrap
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+### WordPress Contact Form Plugin
+Custom plugin with frontend form, file upload, CPT storage, shortcode support, and JavaScript validation.
+
+### Quote Request Plugin
+Custom quote request workflow with nonce protection, sanitization, email notifications, and CPT storage.
+
+### Task Manager Plugin
+Frontend WordPress task manager with CPT, WP_Query, task status via post meta, and secure form handling.
+
+## Currently Working On
+- Improving plugin architecture
+- Strengthening JavaScript skills
+- Preparing for junior WordPress developer roles
+
+## Contact
+Email: hamzanaeem12@gmail.com
